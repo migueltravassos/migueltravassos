@@ -1,7 +1,8 @@
 ### Hi there, I'm Miguel 👋
-**Computer Science Student @ FCT NOVA | Systems Engineering Enthusiast**
+**Computer Science Student @ FCT NOVA | Systems & Security Engineering**
 
-I'm a software engineering student focused on **Low-Level Systems**, **Memory Safety**, and **High-Performance Computing**. I love digging into how things work under the hood, from operating systems to network protocols.
+I'm a software engineering student obsessed with **Network Security**, **Memory Safety**, and **High-Performance Computing**.
+I use **Rust** to build secure infrastructure that is resilient against common vulnerabilities (buffer overflows, data races).
 
 ---
 
@@ -10,15 +11,15 @@ I'm a software engineering student focused on **Low-Level Systems**, **Memory Sa
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
 ### 🔭 Currently Working On
 **[Rusty Load Balancer (WIP)](https://github.com/migueltravassos/rusty_lb)**
-Building a multi-threaded **Layer 4 TCP Load Balancer** from scratch in Rust using `tokio`.
-* **Goal:** Explore zero-cost abstractions and async I/O in network infrastructure.
-* **Stack:** Rust, Tokio, TCP/IP.
+Building a secure, multi-threaded **Layer 4 TCP Load Balancer** from scratch in Rust using `tokio`.
+* **Goal:** Create a zero-trust network component focusing on memory safety and async I/O.
+* **Stack:** Rust, Tokio, TCP/IP, Wireshark (Packet Analysis).
 
 ---
 
